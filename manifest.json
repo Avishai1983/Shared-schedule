@@ -1,0 +1,27 @@
+{
+  "name": "לוז משותף",
+  "short_name": "לוז משותף",
+  "description": "לוח שנה שיתופי עם Google Drive",
+  "start_url": "/Shared-schedule/",
+  "scope": "/Shared-schedule/",
+  "display": "standalone",
+  "background_color": "#f0f4ff",
+  "theme_color": "#4a7feb",
+  "orientation": "portrait",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Avishai1983/Shared-schedule/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Avishai1983/Shared-schedule/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
